@@ -1,0 +1,3 @@
+- build a chrome extension,
+- will have a function to re-sort google scholar search result 
+based on the number of citations.
